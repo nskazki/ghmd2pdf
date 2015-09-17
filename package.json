@@ -1,6 +1,6 @@
 {
   "name": "ghmd2pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "module and cli tool for converting github markdown to pdf",
   "main": "src-build/index.js",
   "dependencies": {
@@ -12,12 +12,12 @@
     "lodash": "^3.10.1",
     "mkdirp": "^0.5.1",
     "promisepipe": "^1.0.1",
+    "babel-runtime": "^5.8.24",
     "request": "^2.62.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.1",
-    "babel-runtime": "^5.8.24",
     "eslint": "^1.3.1",
     "eslint-plugin-mocha": "^0.5.1",
     "mocha": "^2.3.1"
