@@ -1,0 +1,4 @@
+node_modules/
+src-build/
+test/conv-data/
+npm-debug.log
