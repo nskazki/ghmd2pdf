@@ -25,7 +25,7 @@
   "scripts": {
     "prepublish": "npm run build",
     "build": "babel src --optional runtime --retain-lines --source-maps inline --out-dir src-build",
-    "eslint": "eslint $(find src test -type f -name *.js -o -name *.es)",
+    "eslint": "eslint $(find src test -name *.js -o -name *.es6)",
     "test": "npm run eslint && npm run build && mocha test"
   },
   "bin": {
