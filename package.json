@@ -1,6 +1,6 @@
 {
   "name": "ghmd2pdf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "module and cli tool for converting github markdown to pdf",
   "main": "src-build/index.js",
   "dependencies": {
