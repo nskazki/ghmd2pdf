@@ -9,7 +9,7 @@
     "chalk": "^1.1.1",
     "commander": "^2.8.1",
     "html-pdf": "^1.4.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "mkdirp": "^0.5.1",
     "promisepipe": "^1.0.1",
     "babel-runtime": "^5.8.24",
